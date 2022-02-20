@@ -1643,3 +1643,67 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.20-09.21.40:478][560]PIE: Warning: Mobility of /Game/UEDPIE_0_Level1.Level1:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
 [2022.02.20-09.21.40:785][597]PIE: Warning: Mobility of /Game/UEDPIE_0_Level1.Level1:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
 [2022.02.20-09.21.40:943][616]PIE: Warning: Mobility of /Game/UEDPIE_0_Level1.Level1:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.02.20-09.23.23:833][443]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.20-09.23.23:833][443]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2022.02.20-09.23.23:833][443]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.02.20-09.23.23:833][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.20-09.23.23:839][443]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.20-09.23.23:852][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.20-09.23.23:865][443]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.20-09.23.23:865][443]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.20-09.23.23:866][443]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.20-09.23.23:870][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.02.20-09.23.23:967][444]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.02.20-09.23.35:288][647]LogSlate: Window 'Message Log' being destroyed
+[2022.02.20-09.23.35:293][647]LogSlate: Window 'Message Log' being destroyed
+[2022.02.20-09.23.36:982][847]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.02.20-09.23.52:516][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../../UnrealProjects/MarbleRun/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.20-09.23.52:530][583]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.02.20-09.23.52:546][583]LogSavePackage: Moving '../../../../../../UnrealProjects/MarbleRun/Saved/Level1F195718545F3109C98A869A7CD6F307E.tmp' to '../../../../../../UnrealProjects/MarbleRun/Content/Level1.umap'
+[2022.02.20-09.23.52:553][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1_BuiltData" FILE="../../../../../../UnrealProjects/MarbleRun/Content/Level1_BuiltData.uasset" SILENT=true
+[2022.02.20-09.23.52:564][583]LogSavePackage: Moving '../../../../../../UnrealProjects/MarbleRun/Saved/Level1_BuiltDataD6385C234A23B0AA804F30A6102DFBA3.tmp' to '../../../../../../UnrealProjects/MarbleRun/Content/Level1_BuiltData.uasset'
+[2022.02.20-09.23.52:579][583]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.20-09.23.52:579][583]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2022.02.20-09.23.52:579][583]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level1_BuiltData.Level1_BuiltData
+[2022.02.20-09.23.54:010][731]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.20-09.23.54:020][731]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.20-09.23.54:020][731]PIE: New page: PIE session: Level1 (20 Feb 2022, 09:23:54)
+[2022.02.20-09.23.54:020][731]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2022.02.20-09.23.54:022][731]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001789s)
+[2022.02.20-09.23.54:023][731]LogAIModule: Creating AISystem for world Level1
+[2022.02.20-09.23.54:023][731]LogPlayLevel: PIE: World Init took: (0.001394s)
+[2022.02.20-09.23.54:023][731]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.003263s)
+[2022.02.20-09.23.54:036][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.02.20-09.23.54:037][731]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.02.20-09.23.54:037][731]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.20-09.23.54:037][731]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.20-09.23.54:037][731]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.20-09.23.54:037][731]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.20-09.23.54:037][731]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.20-09.23.54:037][731]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.20-09.23.54:037][731]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.20-09.23.54:037][731]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.20-09.23.54:037][731]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.20-09.23.54:037][731]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.20-09.23.54:037][731]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.20-09.23.54:037][731]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.20-09.23.54:042][731]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.20-09.23.54:042][731]LogAudioMixer: Display: 1: FrontRight
+[2022.02.20-09.23.54:049][731]LogAudioMixer: Display: Using Audio Device VG270U (NVIDIA High Definition Audio)
+[2022.02.20-09.23.54:049][731]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.20-09.23.54:049][731]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.20-09.23.54:049][731]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.20-09.23.54:049][731]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.20-09.23.54:049][731]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.20-09.23.54:049][731]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.20-09.23.54:050][731]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.20-09.23.54:050][731]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.20-09.23.54:050][731]LogInit: FAudioDevice initialized.
+[2022.02.20-09.23.54:050][731]LogAudio: Display: Audio Device (ID: 13) registered with world 'Level1'.
+[2022.02.20-09.23.54:058][731]LogLoad: Game class is 'GameModeBase'
+[2022.02.20-09.23.54:059][731]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.02.20-09.23.54
+[2022.02.20-09.23.54:059][731]LogWorld: Bringing up level for play took: 0.000419
+[2022.02.20-09.23.54:059][731]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2022.02.20-09.23.54:061][731]PIE: Server logged in
+[2022.02.20-09.23.54:061][731]PIE: Play in editor total start time 0.046 seconds.
+[2022.02.20-09.23.56:003][929]LogBlueprintUserMessages: [Level1_C_3] Welcome to Marble Maze Game!
