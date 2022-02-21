@@ -9,7 +9,7 @@ Marble Maze is a board game where the player uses gravity and board rotation in 
 Our board constitutes a moderately complex maze for our AI controlled marble. Please view the images below:
 
 <p align="center">
-  <img src="https://github.com/antoine186/3D-Helicopter/blob/main/imgs/GifMaker_20210212201345902.gif" alt="alt text" width=60% height=60%>
+  <img src="https://github.com/antoine186/Marble-Maze/blob/master/Images/MazeShot1.png" alt="alt text" width=60% height=60%>
 </p>
 
 ## Simple Game Mechanics
