@@ -1094,3 +1094,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.21-02.41.46:107][332]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level1_BuiltData.Level1_BuiltData
 [2022.02.21-02.41.46:107][332]LogContentValidation: Display: Validating World /Game/Level1.Level1
 [2022.02.21-02.42.59:998][ 38]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.02.21-02.44.36:440][797]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ball)
