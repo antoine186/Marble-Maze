@@ -23,5 +23,5 @@ The board can be rotated either using the standard WASD keys (i.e. the A and D k
   <img src="https://github.com/antoine186/Marble-Maze/blob/master/Images/dsfagewfaefd.png" alt="alt text" width=60% height=60%>
 </p>
 <p align="center">
-  <img src="https://github.com/antoine186/Marble-Maze/blob/master/Images/sdafsegasef.pngg" alt="alt text" width=60% height=60%>
+  <img src="https://github.com/antoine186/Marble-Maze/blob/master/Images/sdafsegasef.png" alt="alt text" width=60% height=60%>
 </p>
