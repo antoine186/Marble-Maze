@@ -1083,3 +1083,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.21-02.38.18:076][  7]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2022.02.21-02.38.18:079][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
 [2022.02.21-02.38.18:110][  8]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.02.21-02.41.23:943][789]LogActorFactory: Actor Factory created Shape_Sphere
+[2022.02.21-02.41.28:298][293]LogActorFactory: Actor Factory created Shape_Sphere
+[2022.02.21-02.41.46:021][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../../UnrealProjects/MarbleRun/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.21-02.41.46:035][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.02.21-02.41.46:053][332]LogSavePackage: Moving '../../../../../../UnrealProjects/MarbleRun/Saved/Level179A5C8424D82A11545CE60832D5C1E81.tmp' to '../../../../../../UnrealProjects/MarbleRun/Content/Level1.umap'
+[2022.02.21-02.41.46:060][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1_BuiltData" FILE="../../../../../../UnrealProjects/MarbleRun/Content/Level1_BuiltData.uasset" SILENT=true
+[2022.02.21-02.41.46:074][332]LogSavePackage: Moving '../../../../../../UnrealProjects/MarbleRun/Saved/Level1_BuiltDataD8FB99924E75141346ACE9A283316803.tmp' to '../../../../../../UnrealProjects/MarbleRun/Content/Level1_BuiltData.uasset'
+[2022.02.21-02.41.46:107][332]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.21-02.41.46:107][332]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level1_BuiltData.Level1_BuiltData
+[2022.02.21-02.41.46:107][332]LogContentValidation: Display: Validating World /Game/Level1.Level1
