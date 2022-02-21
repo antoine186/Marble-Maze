@@ -1473,3 +1473,219 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.21-04.54.07:796][273]AssetCheck: New page: Asset Save: multiple assets
 [2022.02.21-04.54.07:796][273]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level1_BuiltData.Level1_BuiltData
 [2022.02.21-04.54.07:796][273]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2022.02.21-04.55.37:363][495]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2022.02.21-04.56.19:222][290]Cmd: MODE GRID=0
+[2022.02.21-04.56.38:537][548]Cmd: TRANSACTION UNDO
+[2022.02.21-04.56.38:537][548]LogEditorTransaction: Undo Move Actors
+[2022.02.21-04.56.38:550][548]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2022.02.21-04.56.38:550][548]LogGeometryMode: Warning: Unable to resolve SphereBrush Brush in new BSP, see above
+[2022.02.21-04.56.38:550][548]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.02.21-04.56.45:328][289]Cmd: TRANSACTION UNDO
+[2022.02.21-04.56.45:328][289]LogEditorTransaction: Undo Move Actors
+[2022.02.21-04.56.45:339][289]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2022.02.21-04.56.45:339][289]LogGeometryMode: Warning: Unable to resolve SphereBrush Brush in new BSP, see above
+[2022.02.21-04.56.45:339][289]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.02.21-04.56.45:856][302]Cmd: TRANSACTION UNDO
+[2022.02.21-04.56.45:856][302]LogEditorTransaction: Undo Move Actors
+[2022.02.21-04.56.45:865][302]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2022.02.21-04.56.45:865][302]LogGeometryMode: Warning: Unable to resolve SphereBrush Brush in new BSP, see above
+[2022.02.21-04.56.45:865][302]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.02.21-04.57.31:677][565]Cmd: TRANSACTION UNDO
+[2022.02.21-04.57.31:677][565]LogEditorTransaction: Undo Move Actors
+[2022.02.21-04.57.31:687][565]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2022.02.21-04.57.31:688][565]LogGeometryMode: Warning: Unable to resolve SphereBrush Brush in new BSP, see above
+[2022.02.21-04.57.31:688][565]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.02.21-04.57.31:890][570]Cmd: TRANSACTION UNDO
+[2022.02.21-04.57.31:890][570]LogEditorTransaction: Undo Move Actors
+[2022.02.21-04.57.31:902][570]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2022.02.21-04.57.31:902][570]LogGeometryMode: Warning: Unable to resolve SphereBrush Brush in new BSP, see above
+[2022.02.21-04.57.31:902][570]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.02.21-04.57.32:027][572]Cmd: TRANSACTION UNDO
+[2022.02.21-04.57.32:027][572]LogEditorTransaction: Undo Move Actors
+[2022.02.21-04.57.32:056][572]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2022.02.21-04.57.32:056][572]LogGeometryMode: Warning: Unable to resolve SphereBrush Brush in new BSP, see above
+[2022.02.21-04.57.32:056][572]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.02.21-04.57.32:176][574]Cmd: TRANSACTION UNDO
+[2022.02.21-04.57.32:176][574]LogEditorTransaction: Undo Modifier [Edit]
+[2022.02.21-04.57.32:337][580]Cmd: TRANSACTION UNDO
+[2022.02.21-04.57.32:337][580]LogEditorTransaction: Undo Move Actors
+[2022.02.21-04.57.32:365][580]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2022.02.21-04.57.32:365][580]LogGeometryMode: Warning: Unable to resolve SphereBrush Brush in new BSP, see above
+[2022.02.21-04.57.32:365][580]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.02.21-04.57.32:455][585]Cmd: TRANSACTION UNDO
+[2022.02.21-04.57.32:455][585]LogEditorTransaction: Undo Move Actors
+[2022.02.21-04.57.32:497][585]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2022.02.21-04.57.32:497][585]LogGeometryMode: Warning: Unable to resolve SphereBrush Brush in new BSP, see above
+[2022.02.21-04.57.32:497][585]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.02.21-04.57.32:604][596]Cmd: TRANSACTION UNDO
+[2022.02.21-04.57.32:604][596]LogEditorTransaction: Undo Move Actors
+[2022.02.21-04.57.32:614][596]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2022.02.21-04.57.32:614][596]LogGeometryMode: Warning: Unable to resolve SphereBrush Brush in new BSP, see above
+[2022.02.21-04.57.32:614][596]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.02.21-04.57.32:745][609]Cmd: TRANSACTION UNDO
+[2022.02.21-04.57.32:745][609]LogEditorTransaction: Undo Move Actors
+[2022.02.21-04.57.32:755][609]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2022.02.21-04.57.32:755][609]LogGeometryMode: Warning: Unable to resolve SphereBrush Brush in new BSP, see above
+[2022.02.21-04.57.32:755][609]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.02.21-04.57.32:894][624]Cmd: TRANSACTION UNDO
+[2022.02.21-04.57.32:895][624]LogEditorTransaction: Undo Move Actors
+[2022.02.21-04.57.32:911][624]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2022.02.21-04.57.32:911][624]LogGeometryMode: Warning: Unable to resolve SphereBrush Brush in new BSP, see above
+[2022.02.21-04.57.32:911][624]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.02.21-04.57.33:072][639]Cmd: TRANSACTION UNDO
+[2022.02.21-04.57.33:072][639]LogEditorTransaction: Undo Modifier [Edit]
+[2022.02.21-04.57.33:488][680]Cmd: TRANSACTION UNDO
+[2022.02.21-04.57.33:488][680]LogEditorTransaction: Undo Move Actors
+[2022.02.21-04.57.33:704][695]Cmd: TRANSACTION UNDO
+[2022.02.21-04.57.33:704][695]LogEditorTransaction: Undo Move Actors
+[2022.02.21-04.57.37:800][165]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.02.21-04.58.09:360][868]Cmd: TRANSACTION UNDO
+[2022.02.21-04.58.09:360][868]LogEditorTransaction: Undo Move Actors
+[2022.02.21-04.58.25:324][570]Cmd: SELECT NONE
+[2022.02.21-04.58.34:122][587]Cmd: POLY SELECT ADJACENT ALL
+[2022.02.21-04.58.41:718][289]Cmd: SELECT NONE
+[2022.02.21-04.58.54:393][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../../UnrealProjects/MarbleRun/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.21-04.58.54:402][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.02.21-04.58.54:432][805]LogSavePackage: Moving '../../../../../../UnrealProjects/MarbleRun/Saved/Level15D7476B14FF16A8FD0E56DA83AF990EC.tmp' to '../../../../../../UnrealProjects/MarbleRun/Content/Level1.umap'
+[2022.02.21-04.58.54:442][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1_BuiltData" FILE="../../../../../../UnrealProjects/MarbleRun/Content/Level1_BuiltData.uasset" SILENT=true
+[2022.02.21-04.58.54:452][805]LogSavePackage: Moving '../../../../../../UnrealProjects/MarbleRun/Saved/Level1_BuiltDataBEC23779481872D6830DFF99B222E96B.tmp' to '../../../../../../UnrealProjects/MarbleRun/Content/Level1_BuiltData.uasset'
+[2022.02.21-04.58.54:496][805]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.21-04.58.54:496][805]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level1_BuiltData.Level1_BuiltData
+[2022.02.21-04.58.54:496][805]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2022.02.21-04.58.57:558][157]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.21-04.58.57:568][157]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.21-04.58.57:568][157]PIE: New page: PIE session: Level1 (21 Feb 2022, 04:58:57)
+[2022.02.21-04.58.57:568][157]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2022.02.21-04.58.57:575][157]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006526s)
+[2022.02.21-04.58.57:576][157]LogAIModule: Creating AISystem for world Level1
+[2022.02.21-04.58.57:576][157]LogPlayLevel: PIE: World Init took: (0.001236s)
+[2022.02.21-04.58.57:576][157]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.007871s)
+[2022.02.21-04.58.57:594][157]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.02.21-04.58.57:595][157]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.02.21-04.58.57:595][157]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.21-04.58.57:595][157]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.21-04.58.57:595][157]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.21-04.58.57:595][157]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.21-04.58.57:595][157]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.21-04.58.57:595][157]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.21-04.58.57:595][157]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.21-04.58.57:595][157]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.21-04.58.57:596][157]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.21-04.58.57:596][157]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.21-04.58.57:596][157]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.21-04.58.57:596][157]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.21-04.58.57:600][157]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.21-04.58.57:600][157]LogAudioMixer: Display: 1: FrontRight
+[2022.02.21-04.58.57:606][157]LogAudioMixer: Display: Using Audio Device VG270U (NVIDIA High Definition Audio)
+[2022.02.21-04.58.57:607][157]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.21-04.58.57:607][157]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.21-04.58.57:607][157]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.21-04.58.57:607][157]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.21-04.58.57:607][157]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.21-04.58.57:607][157]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.21-04.58.57:608][157]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.21-04.58.57:608][157]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.21-04.58.57:608][157]LogInit: FAudioDevice initialized.
+[2022.02.21-04.58.57:608][157]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level1'.
+[2022.02.21-04.58.57:618][157]LogLoad: Game class is 'GameModeBase'
+[2022.02.21-04.58.57:619][157]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.02.21-04.58.57
+[2022.02.21-04.58.57:620][157]LogWorld: Bringing up level for play took: 0.000653
+[2022.02.21-04.58.57:620][157]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2022.02.21-04.58.57:621][157]PIE: Server logged in
+[2022.02.21-04.58.57:622][157]PIE: Play in editor total start time 0.058 seconds.
+[2022.02.21-04.58.59:550][377]LogBlueprintUserMessages: [Level1_C_8] Welcome to Marble Maze Game!
+[2022.02.21-05.01.46:746][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.21-05.01.46:746][157]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2022.02.21-05.01.46:746][157]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.02.21-05.01.46:747][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.21-05.01.46:755][157]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.21-05.01.46:756][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.21-05.01.46:760][157]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.21-05.01.46:761][157]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.21-05.01.46:761][157]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.21-05.01.46:763][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.21-05.01.46:764][157]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.02.21-05.01.46:803][161]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.02.21-05.01.47:521][226]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.21-05.01.47:531][226]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.21-05.01.47:531][226]PIE: New page: PIE session: Level1 (21 Feb 2022, 05:01:47)
+[2022.02.21-05.01.47:531][226]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2022.02.21-05.01.47:537][226]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006192s)
+[2022.02.21-05.01.47:538][226]LogAIModule: Creating AISystem for world Level1
+[2022.02.21-05.01.47:538][226]LogPlayLevel: PIE: World Init took: (0.000922s)
+[2022.02.21-05.01.47:538][226]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.007207s)
+[2022.02.21-05.01.47:543][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.02.21-05.01.47:543][226]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.02.21-05.01.47:543][226]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.21-05.01.47:543][226]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.21-05.01.47:543][226]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.21-05.01.47:543][226]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.21-05.01.47:543][226]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.21-05.01.47:543][226]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.21-05.01.47:543][226]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.21-05.01.47:543][226]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.21-05.01.47:543][226]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.21-05.01.47:543][226]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.21-05.01.47:543][226]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.21-05.01.47:543][226]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.21-05.01.47:548][226]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.21-05.01.47:548][226]LogAudioMixer: Display: 1: FrontRight
+[2022.02.21-05.01.47:554][226]LogAudioMixer: Display: Using Audio Device VG270U (NVIDIA High Definition Audio)
+[2022.02.21-05.01.47:554][226]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.21-05.01.47:554][226]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.21-05.01.47:554][226]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.21-05.01.47:554][226]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.21-05.01.47:554][226]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.21-05.01.47:554][226]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.21-05.01.47:555][226]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.21-05.01.47:555][226]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.21-05.01.47:555][226]LogInit: FAudioDevice initialized.
+[2022.02.21-05.01.47:555][226]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level1'.
+[2022.02.21-05.01.47:561][226]LogLoad: Game class is 'GameModeBase'
+[2022.02.21-05.01.47:562][226]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.02.21-05.01.47
+[2022.02.21-05.01.47:563][226]LogWorld: Bringing up level for play took: 0.000767
+[2022.02.21-05.01.47:563][226]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2022.02.21-05.01.47:565][226]PIE: Server logged in
+[2022.02.21-05.01.47:566][226]PIE: Play in editor total start time 0.04 seconds.
+[2022.02.21-05.01.49:206][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.21-05.01.49:206][400]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2022.02.21-05.01.49:206][400]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.02.21-05.01.49:206][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.21-05.01.49:215][400]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.21-05.01.49:217][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.21-05.01.49:221][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.21-05.01.49:221][400]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.21-05.01.49:222][400]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.21-05.01.49:224][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.02.21-05.01.49:280][405]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.02.21-05.06.34:140][126]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.02.21-05.07.53:790][146]LogSlate: Window 'Select Path' being destroyed
+[2022.02.21-05.07.53:948][146]LogStaticMesh: Building static mesh Maze1...
+[2022.02.21-05.07.53:972][146]LogStaticMesh: Built static mesh [0.02s] /Game/Mazes/Maze1.Maze1
+[2022.02.21-05.07.53:974][146]LogActorFactory: Actor Factory created Maze1
+[2022.02.21-05.07.53:988][146]LogEditor: Error: Actor 'Brush /Game/Level1.Level1:PersistentLevel.BoxBrush2' is marked pending kill and cannot be converted
+[2022.02.21-05.07.53:988][146]LogEditor: Error: Actor 'Brush /Game/Level1.Level1:PersistentLevel.BoxBrush3' is marked pending kill and cannot be converted
+[2022.02.21-05.07.53:988][146]LogEditor: Error: Actor 'Brush /Game/Level1.Level1:PersistentLevel.BoxBrush4' is marked pending kill and cannot be converted
+[2022.02.21-05.07.53:988][146]LogEditor: Error: Actor 'Brush /Game/Level1.Level1:PersistentLevel.BoxBrush5' is marked pending kill and cannot be converted
+[2022.02.21-05.07.53:988][146]LogEditor: Error: Actor 'Brush /Game/Level1.Level1:PersistentLevel.BoxBrush6' is marked pending kill and cannot be converted
+[2022.02.21-05.07.53:988][146]LogEditor: Error: Actor 'Brush /Game/Level1.Level1:PersistentLevel.BoxBrush7' is marked pending kill and cannot be converted
+[2022.02.21-05.07.53:988][146]LogEditor: Error: Actor 'Brush /Game/Level1.Level1:PersistentLevel.BoxBrush8_4' is marked pending kill and cannot be converted
+[2022.02.21-05.07.53:988][146]LogEditor: Error: Actor 'Brush /Game/Level1.Level1:PersistentLevel.BoxBrush9' is marked pending kill and cannot be converted
+[2022.02.21-05.07.53:988][146]LogEditor: Error: Actor 'Brush /Game/Level1.Level1:PersistentLevel.BoxBrush10' is marked pending kill and cannot be converted
+[2022.02.21-05.07.53:988][146]LogEditor: Error: Actor 'Brush /Game/Level1.Level1:PersistentLevel.BoxBrush11' is marked pending kill and cannot be converted
+[2022.02.21-05.07.53:988][146]LogEditor: Error: Actor 'Brush /Game/Level1.Level1:PersistentLevel.BoxBrush12' is marked pending kill and cannot be converted
+[2022.02.21-05.07.53:988][146]LogEditor: Error: Actor 'Brush /Game/Level1.Level1:PersistentLevel.BoxBrush13' is marked pending kill and cannot be converted
+[2022.02.21-05.07.53:988][146]LogEditor: Error: Actor 'Brush /Game/Level1.Level1:PersistentLevel.BoxBrush14' is marked pending kill and cannot be converted
+[2022.02.21-05.07.53:988][146]LogEditor: Error: Actor 'Brush /Game/Level1.Level1:PersistentLevel.BoxBrush15' is marked pending kill and cannot be converted
+[2022.02.21-05.07.53:988][146]LogEditor: Error: Actor 'Brush /Game/Level1.Level1:PersistentLevel.BoxBrush16' is marked pending kill and cannot be converted
+[2022.02.21-05.07.53:988][146]LogEditor: Error: Actor 'Brush /Game/Level1.Level1:PersistentLevel.BoxBrush17-Floor' is marked pending kill and cannot be converted
+[2022.02.21-05.07.53:988][146]EditorErrors: New page: Actor Reattachment
+[2022.02.21-05.07.53:993][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.02.21-05.07.54:718][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../../UnrealProjects/MarbleRun/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.21-05.07.54:721][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.02.21-05.07.54:740][218]LogSavePackage: Moving '../../../../../../UnrealProjects/MarbleRun/Saved/Level188911CC549BF31A381B7EA9D69D81787.tmp' to '../../../../../../UnrealProjects/MarbleRun/Content/Level1.umap'
+[2022.02.21-05.07.54:748][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1_BuiltData" FILE="../../../../../../UnrealProjects/MarbleRun/Content/Level1_BuiltData.uasset" SILENT=true
+[2022.02.21-05.07.54:762][218]LogSavePackage: Moving '../../../../../../UnrealProjects/MarbleRun/Saved/Level1_BuiltDataB1203FB344A276D5CB2D04B25CEADE13.tmp' to '../../../../../../UnrealProjects/MarbleRun/Content/Level1_BuiltData.uasset'
+[2022.02.21-05.07.54:800][218]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.21-05.07.54:800][218]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level1_BuiltData.Level1_BuiltData
+[2022.02.21-05.07.54:800][218]LogContentValidation: Display: Validating World /Game/Level1.Level1
