@@ -11,5 +11,8 @@ Our board constitutes a moderately complex maze for our AI controlled marble. Pl
 <p align="center">
   <img src="https://github.com/antoine186/Marble-Maze/blob/master/Images/MazeShot1.png" alt="alt text" width=60% height=60%>
 </p>
+<p align="center">
+  <img src="https://github.com/antoine186/Marble-Maze/blob/master/Images/dfhsthserf.png" alt="alt text" width=60% height=60%>
+</p>
 
 ## Simple Game Mechanics
