@@ -1793,3 +1793,78 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.21-03.30.13:882][512]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2022.02.21-03.30.13:885][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
 [2022.02.21-03.30.13:919][513]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.02.21-03.40.12:432][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.02.21-03.40.12:433][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../../UnrealProjects/MarbleRun/Saved/Autosaves/Game/Level1_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.02.21-03.40.12:448][419]LogSavePackage: Moving '../../../../../../UnrealProjects/MarbleRun/Saved/Level1_Auto2E49506214C76CBF37407DCB93FC41943.tmp' to '../../../../../../UnrealProjects/MarbleRun/Saved/Autosaves/Game/Level1_Auto2.umap'
+[2022.02.21-03.40.12:449][419]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level1' took 0.035
+[2022.02.21-03.40.12:449][419]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.035
+[2022.02.21-04.17.20:491][288]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.02.21-04.17.31:632][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../../UnrealProjects/MarbleRun/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.21-04.17.31:649][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.02.21-04.17.31:665][614]LogSavePackage: Moving '../../../../../../UnrealProjects/MarbleRun/Saved/Level1102FCA944C73A5259CA00F84D3AA6C45.tmp' to '../../../../../../UnrealProjects/MarbleRun/Content/Level1.umap'
+[2022.02.21-04.17.31:673][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1_BuiltData" FILE="../../../../../../UnrealProjects/MarbleRun/Content/Level1_BuiltData.uasset" SILENT=true
+[2022.02.21-04.17.31:684][614]LogSavePackage: Moving '../../../../../../UnrealProjects/MarbleRun/Saved/Level1_BuiltData453A30C6475A77966F71019236FFBDC8.tmp' to '../../../../../../UnrealProjects/MarbleRun/Content/Level1_BuiltData.uasset'
+[2022.02.21-04.17.31:694][614]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.21-04.17.31:694][614]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level1_BuiltData.Level1_BuiltData
+[2022.02.21-04.17.31:694][614]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2022.02.21-04.17.50:977][ 27]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.02.21-04.17.53:995][375]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.02.21-04.19.29:039][596]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.02.21-04.19.39:640][704]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.02.21-04.20.10:466][575]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.02.21-04.20.11:038][641]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2022.02.21-04.20.13:941][984]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.02.21-04.20.19:175][585]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.02.21-04.20.21:517][865]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.02.21-04.20.22:605][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../../UnrealProjects/MarbleRun/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.21-04.20.22:622][993]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.02.21-04.20.22:640][993]LogSavePackage: Moving '../../../../../../UnrealProjects/MarbleRun/Saved/Level1323FE4F44ABE738201978D838F2C96EB.tmp' to '../../../../../../UnrealProjects/MarbleRun/Content/Level1.umap'
+[2022.02.21-04.20.22:647][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1_BuiltData" FILE="../../../../../../UnrealProjects/MarbleRun/Content/Level1_BuiltData.uasset" SILENT=true
+[2022.02.21-04.20.22:658][993]LogSavePackage: Moving '../../../../../../UnrealProjects/MarbleRun/Saved/Level1_BuiltData65C64B9E4291B3BB3212A4B00CB8FBB2.tmp' to '../../../../../../UnrealProjects/MarbleRun/Content/Level1_BuiltData.uasset'
+[2022.02.21-04.20.22:666][993]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.21-04.20.22:666][993]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level1_BuiltData.Level1_BuiltData
+[2022.02.21-04.20.22:666][993]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2022.02.21-04.22.19:574][948]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.02.21-04.22.20:334][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../../UnrealProjects/MarbleRun/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.21-04.22.20:351][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.02.21-04.22.20:367][ 34]LogSavePackage: Moving '../../../../../../UnrealProjects/MarbleRun/Saved/Level14B83A28648ED2E2E37A3408EEAB170C2.tmp' to '../../../../../../UnrealProjects/MarbleRun/Content/Level1.umap'
+[2022.02.21-04.22.20:375][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1_BuiltData" FILE="../../../../../../UnrealProjects/MarbleRun/Content/Level1_BuiltData.uasset" SILENT=true
+[2022.02.21-04.22.20:386][ 34]LogSavePackage: Moving '../../../../../../UnrealProjects/MarbleRun/Saved/Level1_BuiltData7D5056EE47326D0B500B1DBCBADB7433.tmp' to '../../../../../../UnrealProjects/MarbleRun/Content/Level1_BuiltData.uasset'
+[2022.02.21-04.22.20:396][ 34]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.21-04.22.20:396][ 34]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level1_BuiltData.Level1_BuiltData
+[2022.02.21-04.22.20:396][ 34]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2022.02.21-04.24.53:661][884]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2022.02.21-04.25.14:902][898]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.02.21-04.26.13:006][522]Cmd: TRANSACTION UNDO
+[2022.02.21-04.26.13:006][522]LogEditorTransaction: Undo Select Brush Surface
+[2022.02.21-04.26.13:669][547]Cmd: TRANSACTION UNDO
+[2022.02.21-04.26.13:669][547]LogEditorTransaction: Undo Edit X
+[2022.02.21-04.27.15:262][ 44]Cmd: TRANSACTION UNDO
+[2022.02.21-04.27.15:262][ 44]LogEditorTransaction: Undo Move Actors
+[2022.02.21-04.27.31:033][594]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.02.21-04.27.32:004][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../../UnrealProjects/MarbleRun/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.21-04.27.32:022][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.02.21-04.27.32:040][705]LogSavePackage: Moving '../../../../../../UnrealProjects/MarbleRun/Saved/Level13961A26541A6C5D1966C3AA494019FA8.tmp' to '../../../../../../UnrealProjects/MarbleRun/Content/Level1.umap'
+[2022.02.21-04.27.32:054][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1_BuiltData" FILE="../../../../../../UnrealProjects/MarbleRun/Content/Level1_BuiltData.uasset" SILENT=true
+[2022.02.21-04.27.32:065][705]LogSavePackage: Moving '../../../../../../UnrealProjects/MarbleRun/Saved/Level1_BuiltData738240EC4C0C717A790A7994AC841534.tmp' to '../../../../../../UnrealProjects/MarbleRun/Content/Level1_BuiltData.uasset'
+[2022.02.21-04.27.32:073][705]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.21-04.27.32:073][705]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level1_BuiltData.Level1_BuiltData
+[2022.02.21-04.27.32:073][705]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2022.02.21-04.29.29:417][505]Cmd: DUPLICATE
+[2022.02.21-04.29.29:417][505]Cmd: ACTOR DUPLICATE
+[2022.02.21-04.29.49:270][738]Cmd: DUPLICATE
+[2022.02.21-04.29.49:270][738]Cmd: ACTOR DUPLICATE
+[2022.02.21-04.30.25:999][961]Cmd: SELECT NONE
+[2022.02.21-04.30.45:337][196]Cmd: SELECT NONE
+[2022.02.21-04.30.52:054][982]Cmd: DUPLICATE
+[2022.02.21-04.30.52:054][982]Cmd: ACTOR DUPLICATE
+[2022.02.21-04.31.09:171][995]Cmd: SELECT NONE
+[2022.02.21-04.31.18:619][127]Cmd: SELECT NONE
+[2022.02.21-04.31.20:291][317]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../../UnrealProjects/MarbleRun/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.21-04.31.20:309][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.02.21-04.31.20:329][317]LogSavePackage: Moving '../../../../../../UnrealProjects/MarbleRun/Saved/Level1BCF4F0DC43720EB6143F809167352AF6.tmp' to '../../../../../../UnrealProjects/MarbleRun/Content/Level1.umap'
+[2022.02.21-04.31.20:337][317]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1_BuiltData" FILE="../../../../../../UnrealProjects/MarbleRun/Content/Level1_BuiltData.uasset" SILENT=true
+[2022.02.21-04.31.20:348][317]LogSavePackage: Moving '../../../../../../UnrealProjects/MarbleRun/Saved/Level1_BuiltData4423ED68424DE2B5CE7EBEB9542E7755.tmp' to '../../../../../../UnrealProjects/MarbleRun/Content/Level1_BuiltData.uasset'
+[2022.02.21-04.31.20:360][317]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.21-04.31.20:360][317]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level1_BuiltData.Level1_BuiltData
+[2022.02.21-04.31.20:360][317]LogContentValidation: Display: Validating World /Game/Level1.Level1
